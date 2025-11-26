@@ -87,6 +87,51 @@ She claps the nearest PC on the shoulder and strides off.
 ## Whispering Ingot Side Quest
 Full details in Omar’s dialogue above and in [[Items/Whispering Ingot]] + [[Quests & Hooks/Whispering Ingot Side Quest]]
 
+# The Broken Span Inn – First Night in Umbergate
+
+The last light dies behind the Fracture. Wind rattles the shutters like restless bones. You shoulder open the door of the Broken Span Inn and step into a fug of woodsmoke, sour ale, and sizzling fat.
+
+A cracked sign shows the Anchorspan with one side snapped off and replaced by a foaming tankard. Blue-green aetherglass lanterns swing overhead, painting the room in shifting sea colours.
+
+The common room is lively but not packed.
+
+- A table of caravan guards argue over dice.
+- A half-elf bard saws a jaunty tune on a battered lute.
+- A stout dwarf with wire braiding in his beard Torvek Ironvein (the only person in Umbergate most folk have ever seen with an aethersteel arm) roars at a bad roll and slams his metal fist—THUNK—into the table, laughing like an avalanche.
+
+In the far shadowed corner sits a brooding man—hood up, right palm resting on the table, yet you see a faint dull violet glow gently pulsing from his palm. you notice that Locals leave a three-seat halo of empty benches around him. 
+
+Behind the bar stands **Ma Jessa Carver**—broad-shouldered woman in her fifties, throat a lattice of old burn scars that shine pale in the lantern light. Her own right palm bears the same faint dull violet glow 
+
+Conversation quiets for a heartbeat when you enter—new faces always get measured—then surges back.
+
+Ma Jessa’s gravelly voice cuts clean through the noise:
+
+"newbies i see.  what can i get you lot, food, drink, place to crash?"
+
+banter between party and Ma
+
+She offers at an appropriate time -
+“Mind the corner. That one’s come back from the Span three times. Came back quieter each trip. Hasn’t spoken since winter.”
+
+Ma Jessa closes her eyes for a second, but her tone softens when she leans in so only the party hears:
+
+“Torvek’s arm and my old scar are the only bits of aethersteel you’ll see on this side of the Fracture without selling your soul—or your firstborn. Everything else is tavern talk.”
+
+She flashes a crooked, motherly smile that actually reaches her eyes.
+
+“Rooms four silver, two if you share with the snorers. Stew’s edible tonight. Miracle.”
+
+Then louder, across the room:
+
+“Another Fracture Red for the quiet one in the corner—on the house. Tell him Ma says drink slow.”
+
+The lone Marked raises his mug a finger’s breadth in silent thanks, sigil flickering once, then sinks back into shadow.
+
+The bard strikes up a livelier reel. Dice clatter. Laughter rises.
+
+Welcome to the Broken Span Inn.  
+You’re home—for tonight, at least.
 ## Pacing / Session End
 - 20 min immersion + initial chaos
 - 30 min Wildlings fight
