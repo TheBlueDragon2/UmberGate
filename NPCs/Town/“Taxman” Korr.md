@@ -6,7 +6,7 @@ Ogre male, 9½ ft, surprisingly well-spoken. Wears a ledger chained to his belt 
 
 **Personality:** Bureaucratic, polite, absolutely merciless.  
 **Quote:** “Ten percent. Plus pain-and-suffering fee if you make me stand up.”
-
+![[“Taxman” Korr.png]]
 **Secrets (DM only)**
 > [!secret]
 > - Early Glass Plague crystals visible on left tusk and shoulder.

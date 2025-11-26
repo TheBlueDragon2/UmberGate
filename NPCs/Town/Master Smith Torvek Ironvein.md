@@ -8,5 +8,5 @@
 **Appearance & Voice**  
 Soot-black beard braided with aethersteel wire, right arm replaced by seamless living aethersteel. Eyes perpetually bloodshot from forge heat.
 
-**Image::** ![](../Maps & Images/NPCs/Torvek_Ironvein.png)
+**Image::** ![[Master Smith Torvek Ironvein.png]]![](../Maps & Images/NPCs/Torvek_Ironvein.png)
 **Image Prompt:: muscular hill dwarf blacksmith, living aethersteel prosthetic arm glowing faintly, forge sparks, scarred leather apron, intense expression, cinematic fantasy --ar 3:4 --v 6

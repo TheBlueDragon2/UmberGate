@@ -11,5 +11,5 @@ Broad-shouldered woman in her late 50s, throat a rope of old scars, iron-grey ha
 **Manner & Goals**  
 Maternal to newcomers, keeps the peace with an iron fist in a velvet glove. Secretly protects every 30-day fugitive who earns her respect.
 
-**Image::** ![](../Maps & Images/NPCs/Ma_Jessa.png)
+**Image::** ![[ma.png]]![](../Maps & Images/NPCs/Ma_Jessa.png)
 **Image Prompt::** grizzled human female barkeep, scarred throat, faint glowing violet sigil on palm, warm tavern lighting, fantasy frontier, cinematic --ar 3:4 --v 6
