@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "Wildling"
             }
+          },
+          {
+            "id": "4b937cae770fd860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Whispering Ingot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whispering Ingot"
+            }
+          },
+          {
+            "id": "e52ce4f404c083b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests & Hooks/The Whispering Ingot (Level 3–4 side quest).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Whispering Ingot (Level 3–4 side quest)"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -229,11 +257,13 @@
   },
   "active": "6c213b9d9f7121e8",
   "lastOpenFiles": [
+    "Items/Whispering Ingot.md",
+    "Quests & Hooks/The Whispering Ingot (Level 3–4 side quest).md",
+    "Creatures/Wildling.md",
     "Untitled",
     "Items",
     "Creatures",
     "Creatures/Wildling Alpha.md",
-    "Creatures/Wildling.md",
     "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
     "Sessions/Session 01 – The Reborn Stumbles In + Wildlings.md",
     "Maps & Images/view of the fracture.md",
@@ -263,7 +293,6 @@
     "Quests & Hooks",
     "Factions",
     "NPCs/Wilds",
-    "NPCs/Town",
     "Locations/Town/The Broken Span Inn.md"
   ]
 }
