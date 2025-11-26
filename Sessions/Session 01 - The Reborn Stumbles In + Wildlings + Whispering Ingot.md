@@ -124,7 +124,7 @@ She flashes a crooked, motherly smile that actually reaches her eyes.
 
 Then louder, across the room:
 
-“Another Fracture Red for the quiet one in the corner—on the house. Tell him Ma says drink slow.”
+“Another Fracture Red for the quiet one in the corner— on the house, drink slow.”
 
 The lone Marked raises his mug a finger’s breadth in silent thanks, sigil flickering once, then sinks back into shadow.
 
@@ -132,13 +132,6 @@ The bard strikes up a livelier reel. Dice clatter. Laughter rises.
 
 Welcome to the Broken Span Inn.  
 You’re home—for tonight, at least.
-## Pacing / Session End
-- 20 min immersion + initial chaos
-- 30 min Wildlings fight
-- 20–30 min Thorne + Omar conversations
-- 30–60 min Ingot puzzle (whenever they choose)
-- Session ends with two clear threads:
-  - Thorne’s missing-patrol job (“Hunt the Leavings”)
-  - Omar’s Whispering Ingot bounty
 
-**DM note:** Thorne’s quest – a three-person Warden scout team vanished two days ago near a grove of mirrored glass trees, 10 miles west of the Span. Perfect level 3–4 investigation/combat delve with early Nyx clues.
+
+Players interact with whomever, eventually get a long rest.  Choose wither captain thorne or omars missions
