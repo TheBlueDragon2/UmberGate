@@ -6,7 +6,7 @@ Half-elf female, appears mid-30s. Auburn hair, dawn-colored robes, calm voice th
 
 **Personality:** Compassionate but pragmatic; believes mercy sometimes wears steel.  
 **Quote:** “Lorris teaches that even broken things can still shine.”
-
+![[Sister Amara Sol.png]]
 **Secrets (DM only)**
 > [!secret]
 > - Former battlefield cleric in the Crimson Accord war; deserted after watching an entire village turn to glass.
