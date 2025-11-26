@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
+                "file": "NPCs/Town/Captain Renza Thorne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot"
+              "title": "Captain Renza Thorne"
             }
           }
         ],
@@ -271,8 +271,10 @@
   },
   "active": "8e6e4b3cba47882e",
   "lastOpenFiles": [
-    "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
+    "captain 1.png",
+    "captain.png",
     "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
+    "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
     "NPCs/Town/Master Smith Torvek Ironvein.md",
     "Quests & Hooks/The Whispering Ingot (Level 3–4 side quest).md",
     "NPCs/Town/“Taxman” Korr.md",
@@ -300,7 +302,6 @@
     "NPCs/Town/Sister Amara Sol.md",
     "Locations/Town/Vigil Hospice.md",
     "Locations/Town/The Gilded Anvil.md",
-    "Welcome.md",
     "Maps & Images",
     "Sessions",
     "Players & Backstories",

@@ -7,6 +7,9 @@ Human female, early 40s. Tall, scarred, left eye a patch of etched aethersteel (
 **Personality:** Duty above all. Fair, but zero patience for chaos.  
 **Quote:** “Thirty days is mercy. Day thirty-one is mine.”
 
+![[captain 1.png]]
+
+
 **Secrets (DM only)**
 > [!secret]
 > - Her eye was taken by one of Nyx’s early “perfect” subjects.
