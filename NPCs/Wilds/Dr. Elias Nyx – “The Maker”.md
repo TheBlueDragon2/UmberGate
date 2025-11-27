@@ -1,6 +1,6 @@
 # Dr. Elias Nyx – “The Maker”
 **Tags:** #npc/wilds #villain #dr-nyx #tragic
-
+![[Dr. Elias Nyx.png]]
 **Current status (3½ months after exile)**  
 Deep in the Umberwilds, ~2 days west-northwest of the Maw  
 Runs a hidden surgical camp with his three loyal prototypes
