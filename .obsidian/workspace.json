@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Dr. Elias Nyx – “The Maker”"
             }
+          },
+          {
+            "id": "d3d5ab17965daf01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Marked/Old Markham.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Old Markham"
+            }
+          },
+          {
+            "id": "c08ae9f79ea38954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Town/Old Markham.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Old Markham"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,28 +227,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b64877298de21a59",
+  "active": "c08ae9f79ea38954",
   "lastOpenFiles": [
+    "NPCs/Marked/Old Markham.md",
+    "NPCs/Town/Old Markham.md",
+    "NPCs/Town/“Ma” Jessa Carver.md",
+    "Index.md",
+    "“Taxman” Korr.png",
+    "NPCs/Town/“Taxman” Korr.md",
+    "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
+    "Lore & Secrets/The Marked – Town Culture & Silence.md",
+    "NPCs/Wilds/Dr. Elias Nyx – “The Maker”.md",
     "Dr. Elias Nyx.png",
     "Locations/Town/Elias’s Rest – The Ruined Clinic.md",
-    "NPCs/Wilds/Dr. Elias Nyx – “The Maker”.md",
     "NPCs/Town/Sister Amara Sol.md",
     "Sister Amara Sol.png",
     "NPCs/Town/Brother Malach Vale.md",
     "Brother Malach Vale.png",
     "Maps & Images/view of the fracture.md",
-    "NPCs/Town/“Taxman” Korr.md",
-    "“Taxman” Korr.png",
     "NPCs/Town/Master Smith Torvek Ironvein.md",
     "Master Smith Torvek Ironvein.png",
     "NPCs/Town/“Honest” Omar.md",
     "honest omar.jpg",
-    "NPCs/Town/“Ma” Jessa Carver.md",
     "ma.png",
     "NPCs/Town/Captain Renza Thorne.md",
     "captain 1.png",
     "captain.png",
-    "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
     "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
     "Quests & Hooks/The Whispering Ingot (Level 3–4 side quest).md",
     "Items/Whispering Ingot.md",
@@ -232,13 +264,10 @@
     "Sessions/Session 01 – The Reborn Stumbles In + Wildlings.md",
     "download.jpg",
     "Lore & Secrets/000 – MASTER DOCUMENT.md",
-    "Index.md",
     "Quests & Hooks/Player Handout – What Everyone Knows.md",
     "Locations/Town/Iron Tithe Warehouse.md",
     "Locations/Town/The Laughing Maw.md",
     "Locations/Town/The Reborn Chapel.md",
-    "Locations/Town/Caravan Market.md",
-    "Locations/Town/The Keep.md",
     "Maps & Images",
     "Sessions",
     "Players & Backstories",
