@@ -61,4 +61,3 @@ HP 65, AC 12 (no armor left in him)
 **Marked Palm** – once per day can force a Wild Magic Surge centered on himself as a reaction  
 **Legendary Resistance** (1/day) – “The Boy’s not done with me yet.”
 
-Drop this file into `NPCs/Town/Old Markham.md` (or run the tiny script below) and he’s 100 % ready and fully canon-compliant.
