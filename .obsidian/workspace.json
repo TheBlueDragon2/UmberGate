@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps & Images/World_Overview_Canvas.Canvas.md",
+                "file": "Maps & Images/World_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World_Overview_Canvas.Canvas"
+              "title": "World_Overview"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "c6929d08706f0af7",
   "lastOpenFiles": [
+    "world map.png",
     "Locations/Town/Vigil Hospice.md",
-    "Maps & Images/World_Overview_Canvas.Canvas.md",
+    "Maps & Images/World_Overview.md",
     "Maps & Images/view of the fracture.md",
     "Untitled.canvas",
     "Pasted image 20251130115123.png",
@@ -268,7 +269,6 @@
     "Creatures",
     "Creatures/Wildling Alpha.md",
     "Sessions/Session 01 – The Reborn Stumbles In + Wildlings.md",
-    "Quests & Hooks/Player Handout – What Everyone Knows.md",
     "Maps & Images",
     "Sessions",
     "Players & Backstories",
