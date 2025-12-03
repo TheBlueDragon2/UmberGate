@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Wyatt Tindall.md",
+                "file": "Players & Backstories/Wyatt Tindall – “The Captain”.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wyatt Tindall"
+              "title": "Wyatt Tindall – “The Captain”"
             }
           }
         ],
@@ -229,11 +229,11 @@
   },
   "active": "c6929d08706f0af7",
   "lastOpenFiles": [
-    "Maps & Images/World_Overview.md",
-    "PCs/Wyatt Tindall.md",
-    "PCs",
     "NPCs/Background/Morrigan.md",
     "NPCs/Background/Iron Jack.md",
+    "Players & Backstories/Wyatt Tindall – “The Captain”.md",
+    "Maps & Images/World_Overview.md",
+    "PCs",
     "NPCs/Background",
     "world map.png",
     "Locations/Town/Vigil Hospice.md",
