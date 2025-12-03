@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps & Images/World_Overview.md",
+                "file": "PCs/Wyatt Tindall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World_Overview"
+              "title": "Wyatt Tindall"
             }
           }
         ],
@@ -229,9 +229,14 @@
   },
   "active": "c6929d08706f0af7",
   "lastOpenFiles": [
+    "Maps & Images/World_Overview.md",
+    "PCs/Wyatt Tindall.md",
+    "PCs",
+    "NPCs/Background/Morrigan.md",
+    "NPCs/Background/Iron Jack.md",
+    "NPCs/Background",
     "world map.png",
     "Locations/Town/Vigil Hospice.md",
-    "Maps & Images/World_Overview.md",
     "Maps & Images/view of the fracture.md",
     "Untitled.canvas",
     "Pasted image 20251130115123.png",
@@ -261,20 +266,15 @@
     "ma.png",
     "NPCs/Town/Captain Renza Thorne.md",
     "captain 1.png",
-    "captain.png",
     "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
     "Creatures/Wildling.md",
     "Untitled",
     "Items",
     "Creatures",
-    "Creatures/Wildling Alpha.md",
-    "Sessions/Session 01 – The Reborn Stumbles In + Wildlings.md",
     "Maps & Images",
     "Sessions",
     "Players & Backstories",
     "Lore & Secrets",
-    "Quests & Hooks",
-    "Factions",
-    "NPCs/Wilds"
+    "Quests & Hooks"
   ]
 }
