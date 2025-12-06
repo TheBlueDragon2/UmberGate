@@ -34,9 +34,9 @@ As you wait for the guards, you hear a cry from the Gatehouse watch:
 
 "A delver! Crossing the Span!"
 
-A lone figure staggers into view halfway across: right arm fused with glittering crystal, veins spiderwebbing his flesh. He stumblesHe collapses, crawling the final yards before tumbling into the market dust, gasping:
+A lone figure staggers into view halfway across: right arm fused with glittering crystal, veins spiderwebbing his flesh. He stumbles his way across, clearly struggling with each step. He collapses, crawling the final yards before tumbling into the market dust, gasping:
 
-"Nyx… he promised eternity…"
+"Nyx… he promised us eternity…"
 
 Shards explode outward in a razor spray. Chaos erupts.
 
@@ -52,13 +52,13 @@ You see and hear:
 - The grey-robed Vigil priest who had been praying at the Wall of Remembrance rushes forward, tears streaming.  
   “A martyr of the Maker! Touch not the sacred flesh!”  
   Two white-robed Reborn pilgrims trailing him drop to their knees beside him, hands raised in blessing. The priest (human male, late 50s, left hand replaced by gleaming aethersteel) begins a frantic, rising prayer.
-  The grey-robed priest snaps at the white-robes without turning: “Enough of your metal gospel, Malach’s dogs – let the man die in peace!”
+  The grey-robed priest snaps at the white-robes without turning: “Enough of your metal gospel, Malach dogs – let the man die in peace!”
 
 - From the Gatehouse balcony a tall, scarred woman in dark-blue Warden leathers – short iron-grey hair, sabre at her hip, voice like cracking ice – bellows:  
   “CLEAR THE MARKET! Wardens to arms! First idiot who draws steel without my word loses the hand!”  
   This is **Captain Renza Thorne**, commander of the Span Wardens.
 
-- A wiry, sun-browned man with a crooked grin, too many rings, and a single gold tooth ducks behind a salt crate nearby, watching everything (**“Honest” Omar**, fence and information broker).
+- You see a wiry, sun-browned man with a crooked grin, too many rings, and a single gold tooth slides behind a barrel nearby, he is watching everything as he leans with one arm on the barrel (**“Honest” Omar**, fence and information broker).
 
 Immediate choices (mix & match):
 1. Aid the dying Reborn (DC 13 Medicine) → dying whisper: “Dr. Nyx… deep in the glowing groves… he can make you eternal…”
