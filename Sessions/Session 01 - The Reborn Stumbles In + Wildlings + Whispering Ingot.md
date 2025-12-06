@@ -2,17 +2,39 @@
 
 **Tags:** #session #session-01 #town #hook #nyxrumor
 
-## Safety Briefing (Read Aloud Above Table – Serious Tone) > "This world breathes. It's unbalanced – not every shadow, beast, or surge is scaled to you. Some things will pulp level 1 parties. Watch the cues: unnatural glows, dead silences, giggling winds. Discretion *is* valor. Sneak, talk, flee. Live to outsmart it next time."
-## Read-Aloud Opener (Arrival at Anchorspan)
-You stand at the eastern threshold of Umbergate, where the Caravan Market meets the Anchorspan Gatehouse. The Fracture yawns before you—a mile-deep chasm carved by ancient cataclysm, its sheer red-rock walls plunging into eternal shadow. Winds howl up from the abyss, carrying the sharp tang of ozone and salt, mingled with something feral: wild magic's electric bite and distant smells from the Umberwild's impossible blooms.
+## Campaign Opener: Arrival at the Anchorspan (Narrator Voice – Deep, Echoing, Ominous)
 
-As you stand near and look across the 300-yard-long Anchorspan—ancient stonework flat bridge, impossibly defying gravity—lies the Umberwilds. Vivid colors riot beyond: neon trees pulsing like living flames, skies shimmering with auroral surges, you're sure you saw a faint silhouette of twisted beast flitting through haze. The bridge itself is desolate, scoured by gales yet still in amazing shape for its age, reserved only for the Marked fools who chase the Maw and those that hear the call of the Wilds. Caravans rumble safely north-south along the inland Salt Road, staying away from the edge of the seemingly forever drop down the gorge. Drivers try and hide their glances at the edge as they cannot see the bottom of what would be their fate if they got too close.
+_A voice like grinding stone and whispering wind fills your minds, ancient and apart, as if the Fracture itself speaks:_
 
-The air thrums with tension: merchants hawk glowing shards, hammers ring from the blacksmith, and a Vigil priest murmurs prayers at the Wall of Remembrance. Then—a cry from the Gatehouse watch:
+**"Hear this, wanderers of the edge: This world is no cradle of balance. The Umberwilds breathe with feral chaos—shadows that swallow souls, surges that unravel flesh, giggles on the wind that lure the bold to ruin. Not all horrors scale to your strength; some will shatter parties like glass. Heed the signs: impossible glows, silences too deep, colors that bleed into madness. Discretion is valor's keenest edge. Sneak. Parley. Flee. Outwit the wild heart... and etch your legend into its stone."**
+
+_The voice fades, leaving ozone on your tongues. Now, the world sharpens into focus._
+
+You stand to the side of the rutted Salt Road, dust-caked boots sinking into the fine grit that coats everything like forgotten snow—pale blue flecks of skyfall salt glinting in the low sun. The fort rises beside you: a hulking two-story beast of weathered stone, its four squat towers thrusting upward like wary fists, banners of faded silver snapping in the updraft from the chasm. Armored figures pace the wall-walk, halberds glinting; from murder-holes above, eyes track every stranger. A massive iron-shod gate yawns open to your right, spilling the clamor of voices and the tang of sweat-oiled steel.
+
+Behind you stretches the ragged pulse of Umbergate itself. To the north, along the road's curve inland, canvas-roofed wagons creak under loads of shimmering crystal sacks, drivers cursing muleteers amid the bray of beasts and hawkers' cries: _"Skyfall salt! A pinch wards rot for a year! Trade yer war scrap—best prices this side o' the Fracture!"_ Smoke curls lazy from cook-fires, carrying spit-roast meat and bitter herb-brews. Adobe hovels huddle in the leftward haze of the shantytown, their tent-flaps stirring with shadowed figures—refugees in threadbare cloaks, nursing crystal-veined limbs. Laughter erupts from a sunken pit-ring ahead, gravelly cheers and the wet thud of fists on flesh, bets shouted over a beast's guttural snarl. Farther right, in the wealthier sprawl, a rhythmic _clang-clang-clang_ rings out from behind a sturdy timber building—hammer on anvil, sparks flying like fireflies from an open forge-mouth, where a burly silhouette shapes glowing metal amid bellows' roar.
+
+Just ahead, the road bends toward the lip. A low dry-stone wall bars the edge—five feet high, each fist-sized rock hand-laid with care, their greys and browns veined in faint Fracture-blue. Scratches mar every surface: names, dates, jagged pleas etched deep by knife or nail—"Elara, loved always," "Gone to the Maw, 3rd moon"—weathered by salt-wind into ghosts. A gaunt man in a grey linen robe kneels there, fingertips tracing faded letters, lips moving in silent prayer; nearby, a middle-aged woman with wind-tousled brown hair pauses, presses her palm to a fresh-carved stone, eyes glistening with quiet loss before she turns away, shawl clutched tight.
+
+And then... the Fracture.
+
+It gapes before you—a mile-deep wound in the world, sheer red-rock walls plunging into velvet shadow, bottomless and eternal. Updrafts scream upward, whipping cloaks and hair, laden with ozone's sharp bite, crystalline salt, and a feral undercurrent: wild magic's electric tang, laced with phantom blooms that bloom nowhere east—jasmine laced with copper and storm-petals.
+
+Straddling it: the Anchorspan. Three hundred yards of ancient stonework, flat and impossibly long without middle support, defying the void like a god's defiant stride. No rails, no mercy—scoured barren by gales, yet uncracked after centuries, its surface etched with faded runes that pulse faintly at dusk. Only the brave, the foolish, or those seeking, dare it now; caravans shun the edge, rumbling safely on the inland side, but all keep a watchful eye to the fracture's side.
+
+Beyond the Span... the Umberwilds.
+
+**For two of you, it's a revelation—a riot of impossible wonder. Neon trees pulse like living flames, leaves in electric violets and searing crimsons; skies shimmer with auroral surges, veils of lime and cobalt dancing wild; twisted silhouettes flit through haze—beasts with too many wings, flowers that hum like harps. Your breath catches; the world east feels drab, colorless by comparison.**
+
+**For the third... it's a reminder of home, but a more dimmed and distant version. Those same hues glow softer here, familiar as Feywild glades yet these Umberwilds are still pale to you— the vibrant heart you knew, muted by this scarred edge. To the east you see nothing but muted greys and browns now, stirring a pang of homesickness: whispers of wilder winds, lost kin amid eternal blooms.**
+
+As you turn, waiting to check in at the fort as everyone does to begin their 30 days, whether its needed or not, you see (players)
+
+As you wait for the guards, you hear a cry from the Gatehouse watch:
 
 "A delver! Crossing the Span!"
 
-A lone figure staggers into view halfway across: right arm fused with glittering crystal, veins spiderwebbing his flesh. He collapses, crawling the final yards before tumbling into the market dust, gasping:
+A lone figure staggers into view halfway across: right arm fused with glittering crystal, veins spiderwebbing his flesh. He stumblesHe collapses, crawling the final yards before tumbling into the market dust, gasping:
 
 "Nyx… he promised eternity…"
 
