@@ -77,6 +77,10 @@ Gatehouse horn: three long, panicked blasts.
 - 1 [[Creatures/Wildling Alpha]]
 - 5 [[Creatures/Wildling]]
 - Terrain: market stalls (half cover), salt dust (Difficult Terrain), updrafts (flyers advantage)
+- From the Span-side haze erupt sleek shadows—five vivid wolves, fur blazing in impossible neon: limes that writhe like lightning, blues bleeding into the air. Jaws foam with glowing spit; eyes lock on you like hungry stars. They fan out, low and silent, magic crackling off their hides.
+  
+  The pack parts—a neon dire wolf, towering as a warhorse, hide a storm of crimson flames and violet voids, mane writhing like captive lightning. Its bellow shakes the Span, winds howling in sympathy; eyes promise unraveling.
+  
 - Victory: Captain Thorne nods approval + 2 aether shards (25 gp each)
 
 ## Post-Fight – Two Important Interruptions
