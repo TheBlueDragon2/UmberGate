@@ -2,6 +2,7 @@
 
 **Tags:** #session #session-01 #town #hook #nyxrumor
 
+## Safety Briefing (Read Aloud Above Table – Serious Tone) > "This world breathes. It's unbalanced – not every shadow, beast, or surge is scaled to you. Some things will pulp level 1 parties. Watch the cues: unnatural glows, dead silences, giggling winds. Discretion *is* valor. Sneak, talk, flee. Live to outsmart it next time."
 ## Read-Aloud Opener (Arrival at Anchorspan)
 You stand at the eastern threshold of Umbergate, where the Caravan Market meets the Anchorspan Gatehouse. The Fracture yawns before you—a mile-deep chasm carved by ancient cataclysm, its sheer red-rock walls plunging into eternal shadow. Winds howl up from the abyss, carrying the sharp tang of ozone and salt, mingled with something feral: wild magic's electric bite and distant smells from the Umberwild's impossible blooms.
 
