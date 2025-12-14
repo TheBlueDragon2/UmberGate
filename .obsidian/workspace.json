@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Wildling Alpha.md",
+                "file": "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wildling Alpha"
+              "title": "Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot"
             }
           }
         ],
@@ -257,8 +257,8 @@
   },
   "active": "a3d51652368e475d",
   "lastOpenFiles": [
-    "Creatures/Wildling.md",
     "Creatures/Wildling Alpha.md",
+    "Creatures/Wildling.md",
     "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
     "Players & Backstories/Galaric Morvson.md",
     "NPCs/Background/Lord Morv.md",
