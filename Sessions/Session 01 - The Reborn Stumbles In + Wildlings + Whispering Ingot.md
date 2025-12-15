@@ -86,9 +86,9 @@ Gatehouse horn: three long, panicked blasts.
 ## Post-Fight – Two Important Interruptions
 
 ### 1. “Honest” Omar approaches
-The gold-toothed man saunters over, wiping neon wolf blood from his rings.
+The gold-toothed man saunters over, dabbing up neon wolf blood drops from his cloak
 
-“Name’s Omar – they call me Honest, and that’s the joke.  
+Right after the Wildlings attack chaos settles. He sidles up, eyes gleaming: “Saw you handle those beasts like pros. “Name’s Omar –Honest” Omar , A smuggler pawned this off to me.  He never came back.” . I need this opened.  ill pay 50 gp now to crack it open quiet-like. Double depending on what's inside.” (He steathfully slips them a small, heavy wooden box, ~1 ft long x 8 in wide x 6 in deep.)  He gently guides them to the side and shields the view of onlookers.
 
 
 ### 2. Captain Renza Thorne strides up (immediately after Omar steps back)
