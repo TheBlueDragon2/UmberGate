@@ -89,19 +89,7 @@ Gatehouse horn: three long, panicked blasts.
 The gold-toothed man saunters over, wiping neon wolf blood from his rings.
 
 “Name’s Omar – they call me Honest, and that’s the joke.  
-A smuggler pawned this off to me.  He never came back.”  
-He produces a thumb-sized bar of aethersteel that hums with a faint metallic heartbeat.  
-“Locked tighter than a dragon’s hoard, but whatever’s inside imight be worth a fortune.  
-I’ll pay fifty gold right now for first rights. Solve its riddle, bring me the contents, and I’ll double it.  
-Tithe’s already sniffing – clock’s ticking.”
 
-**The Puzzle** (three quick beats you can run whenever they work on it)
-
-1. Salt-crystal runes on the surface – DC 18 Arcana/Investigation to read “The Boy laughs last”.
-2. Six floating tumblers inside – DC 19 Sleight of Hand/Thieves’ Tools to stop in the right order (giggling gets louder when close).
-3. Final lock whispers a single word in the listener’s own childhood voice – they must repeat it aloud.
-
-**Success – Read-aloud** The bar splits open with a soft child-giggle. Inside: a tiny vial of glittering aethersteel dust + the now-quiet ingot itself. Omar whistles, hands over another 50 gp in salt crystals (total 100 gp) and says, “Keep the humming toy. Just don’t blame me when it starts talking back.”
 
 ### 2. Captain Renza Thorne strides up (immediately after Omar steps back)
 Captain Thorne plants her boots, hands on hips, eyes measuring the party.
@@ -120,7 +108,7 @@ Softer tone: “First round tonight at the Broken Span Inn is on me. Tell Ma Jes
 She claps the nearest PC on the shoulder and strides off.
 
 ## Whispering Ingot Side Quest
-Full details in Omar’s dialogue above and in [[Items/Whispering Ingot]] + [[Quests & Hooks/Whispering Ingot Side Quest]]
+Full details in Omar’s dialogue above and in [[The Whispering Box (Level 3–4 side quest)]]
 
 # The Broken Span Inn – First Night in Umbergate
 
