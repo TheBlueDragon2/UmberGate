@@ -38,7 +38,7 @@ Omar (when delivered): “Hah! That's the good stuff—worth ten times what I pa
 
 **Inside:**
 
-- **Automapper Parchment** (Wondrous Item, Uncommon, Attunement Optional): Blank vellum sheet (~letter size). When viewed, ethereal ink blooms—**auto-draws a 1-mile radius map of your exact current location** (updates in real-time as you move/explore; fog-of-war style—reveals rooms, terrain, hidden doors if searched). Fades if folded away; re-activates on unfold. (Recharge: Dawn. Wilds surges may glitch it colorfully.) _Read-Aloud:_ “The page stirs like living mist. Lines etch themselves: the Caravan Market, your exact spot... even the alley shadows shift as you turn.”
+- **Automapper Parchment** (Wondrous Item, Uncommon: Blank vellum sheet (~letter size). When viewed, ethereal ink blooms—**auto-draws a map of your exact current location** (updates in real-time as you move/explore; fog-of-war style—reveals rooms, terrain, hidden doors if searched). Fades if folded away; re-activates on unfold. (Recharge: Dawn. Wilds surges may glitch it colorfully.) _Read-Aloud:_ “The page stirs like living mist. Lines etch themselves: the Caravan Market, your exact spot... even the alley shadows shift as you turn.”
 - **Wilds Compass** (Wondrous Item, Uncommon): Palm-sized brass, needle spins normally at first (true north). _Secret:_ In Wilds (post-Span), needle twitches toward nearest surge/anomaly (or Vane's whims).
 
 **Plot Tie-In:** Map/compass are Vane "toys" (giggle origin). Hints at deeper game—e.g., compass later points to Nyx camp or Maw. Players discover lead-lining blocked scrying (Omar missed it entirely).

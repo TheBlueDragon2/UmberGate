@@ -89,13 +89,14 @@ Gatehouse horn: three long, panicked blasts.
 The gold-toothed man saunters over, dabbing up neon wolf blood drops from his cloak
 
 Right after the Wildlings attack chaos settles. He sidles up, eyes gleaming: “Saw you handle those beasts like pros. “Name’s Omar –Honest” Omar , A smuggler pawned this off to me.  He never came back.” . I need this opened.  ill pay 50 gp now to crack it open quiet-like. Double depending on what's inside.” (He steathfully slips them a small, heavy wooden box, ~1 ft long x 8 in wide x 6 in deep.)  He gently guides them to the side and shields the view of onlookers.
+Details  in [[The Whispering Box (Level 3–4 side quest)]]
 
 
 ### 2. Captain Renza Thorne strides up (immediately after Omar steps back)
 Captain Thorne plants her boots, hands on hips, eyes measuring the party.
 
 “New faces. Handled yourselves well – most greenhorns would’ve frozen or run.  
-What exactly did you see on that corpse before the crystals took him? Anything about where he came from?”  
+What exactly did you observe before the crystals took him? Anything about where he came from?”  
 (Insight DC 15 notices she’s fishing for Nyx rumours.)
 
 She listens, nods once.
@@ -107,8 +108,8 @@ Softer tone: “First round tonight at the Broken Span Inn is on me. Tell Ma Jes
 
 She claps the nearest PC on the shoulder and strides off.
 
-## Whispering Ingot Side Quest
-Full details in Omar’s dialogue above and in [[The Whispering Box (Level 3–4 side quest)]]
+
+
 
 # The Broken Span Inn – First Night in Umbergate
 
@@ -120,7 +121,7 @@ The common room is lively but not packed.
 
 - A table of caravan guards argue over dice.
 - A half-elf bard saws a jaunty tune on a battered lute.
-- A stout dwarf with wire braiding in his beard Torvek Ironvein (the only person in Umbergate most folk have ever seen with an aethersteel arm) roars at a bad roll and slams his metal fist—THUNK—into the table, laughing like an avalanche.
+- A stout dwarf with wire braiding in his beard ([[Master Smith Torvek Ironvein]]) (the only person in Umbergate most folk have ever seen with an aethersteel arm) roars at a bad roll and slams his metal fist—THUNK—into the table, laughing like an avalanche.
 
 In the far shadowed corner sits a brooding man—hood up, right palm resting on the table, yet you see a faint dull violet glow gently pulsing from his palm. you notice that Locals leave a three-seat halo of empty benches around him. 
 
