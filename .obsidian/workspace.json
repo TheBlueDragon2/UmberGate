@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Exile's Pit"
             }
+          },
+          {
+            "id": "38b8eeed3ca9e523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umbergate Town Rumors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Umbergate Town Rumors"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -255,10 +269,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3d51652368e475d",
+  "active": "38b8eeed3ca9e523",
   "lastOpenFiles": [
-    "Locations/Town/Iron Tithe Warehouse.md",
     "Locations/Town/Exile's Pit.md",
+    "Umbergate Town Rumors.md",
+    "Locations/Town/Iron Tithe Warehouse.md",
     "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
     "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
     "NPCs/Town/Ma Jessa Carver.md",
@@ -288,7 +303,6 @@
     "NPCs/Town/Old Markham.md",
     "Index.md",
     "“Taxman” Korr.png",
-    "NPCs/Town/“Taxman” Korr.md",
     "Dr. Elias Nyx.png",
     "Sister Amara Sol.png",
     "Brother Malach Vale.png",
