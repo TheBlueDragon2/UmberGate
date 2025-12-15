@@ -10,7 +10,7 @@ The beating heart of Umbergate’s night life. Rough-hewn, salt-crusted tavern 5
 > “New blood? Sit. Drink. Give the Marked space — that place’ll mess with you.”
 
 ## Proprietor
-[[NPCs/Town/“Ma” Jessa Carver]]
+[[Ma Jessa Carver]]
 
 ## Regulars & Atmosphere
 - Lone Marked (Old Markham) in corner booth — almost never speaks

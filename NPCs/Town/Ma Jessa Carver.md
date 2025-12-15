@@ -1,4 +1,4 @@
-# “Ma” Jessa Carver
+# Ma Jessa Carver
 **Race:** Human (variant)  
 **Class/Level:** Fighter (Champion) 6 (retired)  
 **Role/Alias:** Proprietor of the Broken Span Inn, “Ma”  

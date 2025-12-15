@@ -125,7 +125,7 @@ The common room is lively but not packed.
 
 In the far shadowed corner sits a brooding man—hood up, right palm resting on the table, yet you see a faint dull violet glow gently pulsing from his palm. you notice that Locals leave a three-seat halo of empty benches around him. 
 
-Behind the bar stands **Ma Jessa Carver**—broad-shouldered woman in her fifties, throat a lattice of old burn scars that shine pale in the lantern light. Her own right palm bears the same faint dull violet glow 
+Behind the bar stands  ([[Ma Jessa Carver]] )—Broad-shouldered woman in her late 50s, throat a rope of old scars, iron-grey hair in a tight bun.
 
 Conversation quiets for a heartbeat when you enter—new faces always get measured—then surges back.
 
@@ -133,7 +133,7 @@ Ma Jessa’s gravelly voice cuts clean through the noise:
 
 "newbies i see.  what can i get you lot, food, drink, place to crash?"
 
-banter between party and Ma
+banter between party and Ma - if they order alcohol - "race and age" and gets out a big book
 
 She offers at an appropriate time -
 “Mind the corner. That one’s come back from the Span three times. Came back quieter each trip. Hasn’t spoken since winter.”
