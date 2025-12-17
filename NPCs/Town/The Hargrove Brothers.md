@@ -2,6 +2,7 @@
 
 **Tags:** #npc/town #hargroves-general-store #kobolds #merchants
 
+![[Pasted image 20251217155046.png]]
 "One" trench-coated human(oid), 8 ft tall. Actually **three kobold brothers** stacked: **Tink** (top, Cha 16, silver tongue), **Quill** (middle, Int 16, ledger genius), **Brunt** (bottom, Str 16, hauls crates). Coordinate flawlessly; coat hides tails/scales.
 
 **Personality:** Friendly, efficient, paranoid about discovery. Tink haggles smoothly; Quill mutters math; Brunt grunts loads.  
