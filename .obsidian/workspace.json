@@ -8,119 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4615643b82a24d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Town/Sister Amara Sol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sister Amara Sol"
-            }
-          },
-          {
-            "id": "8b7ed53ab303832c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Town/Elias’s Rest – The Ruined Clinic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elias’s Rest – The Ruined Clinic"
-            }
-          },
-          {
-            "id": "b64877298de21a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Wilds/Dr. Elias Nyx – “The Maker”.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dr. Elias Nyx – “The Maker”"
-            }
-          },
-          {
-            "id": "d3d5ab17965daf01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Marked/Old Markham.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Old Markham"
-            }
-          },
-          {
-            "id": "c6929d08706f0af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players & Backstories/Wyatt Tindall – “The Captain”.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wyatt Tindall – “The Captain”"
-            }
-          },
-          {
-            "id": "3b496cb923b6dda2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players & Backstories/Harey Quickstep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Harey Quickstep"
-            }
-          },
-          {
-            "id": "a3d51652368e475d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Town/Exile's Pit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exile's Pit"
-            }
-          },
-          {
             "id": "38b8eeed3ca9e523",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
+                "file": "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hunt the Leavings – Captain Thorne’s Contract"
+              "title": "Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,6 +172,8 @@
   },
   "active": "38b8eeed3ca9e523",
   "lastOpenFiles": [
+    "Quests & Hooks/The Whispering Box (Level 3–4 side quest).md",
+    "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
     "NPCs/Town/The Hargrove Brothers.md",
     "Pasted image 20251217155046.png",
     "Locations/Town/Hargrove's General Store.md",
@@ -278,9 +181,7 @@
     "Umbergate Town Rumors.md",
     "Locations/Town/Exile's Pit.md",
     "Locations/Town/Iron Tithe Warehouse.md",
-    "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
     "NPCs/Town/Ma Jessa Carver.md",
-    "Quests & Hooks/The Whispering Box (Level 3–4 side quest).md",
     "Creatures/Wildling Alpha.md",
     "Creatures/Wildling.md",
     "Players & Backstories/Galaric Morvson.md",
