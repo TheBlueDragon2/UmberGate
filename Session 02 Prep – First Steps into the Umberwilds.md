@@ -32,8 +32,8 @@ Use Needle Blight (MM p.32) or Tree Blight if you want bigger threat. Reskin:
 
 ### Key Clues (found during/after combat or by careful search)  
 1. **Cocooned Scout** – One warden still breathing, pinned high in living vines. Early Glass Plague crystals glitter on arms and neck. Delirious mutters: “The Maker… promised perfection… metal that never breaks… no more pain…”  
-2. **Blood Map** – On torn tent canvas: crude arrow pointing deeper west labeled “perfect bodies” beside a scratched symbol—a hand with fingers replaced by aethersteel.  
-3. **Aethersteel Finger** – Detached, self-repairing digit clutched in a dead warden’s fist. Surgical cut, not battle damage.
+2. Logbook -  log is in common and shows that the wardens have been tracked and monitored for the last two weeks
+3. Humanoid tracks are also around
 
 ### Player Choices & Contingencies  
 - **Fight** – Straightforward but messy; blights try to grapple and drag PCs into trees (Strength save DC 13 or restrained).  
@@ -43,17 +43,13 @@ Use Needle Blight (MM p.32) or Tree Blight if you want bigger threat. Reskin:
 
 ### Pacing Notes  
 - Whole scene should take 45–75 minutes.  
-- If they flee or sneak, they still spot the blood map from afar.  
-- End with clear next step: follow the arrow deeper (toward Nyx’s fringe camp) or return to Umbergate with proof.
+
 
 ### Rewards  
 - 300 gp from Thorne for answers (plus 200 gp if they identify Nyx as cause).  
-- The aethersteel finger (minor magic item: self-repairs tools, +1 to one tool check/day).  
-- XP as normal + milestone feel for surviving first Wilds taste.
 
 ### Alive World Tick  
 While they’re out, note:  
 - Reborn Path sermon scheduled tonight in town.  
 - New war refugees arriving—rumors of Iron Dominion push closer.
 
-Drop this straight into Obsidian. Run it loose—they’ll surprise you, and that’s perfect. You’ve got this!
