@@ -10,7 +10,10 @@ The party is 30–40 minutes west of the Anchorspan, slightly lost (low Survival
 ## Read-Aloud Opener  
 The canopy knits shut overhead like living stained glass—leaves in electric violet and searing crimson pulsing with slow heartbeats. The air turns thick and sweet, laced with ozone and overripe fruit. Your footsteps sometimes sink too deep, sometimes bounce as if the ground forgets its own weight. Birdsong has stopped. Instead, a low, wet scraping drifts on the wind… like fingernails dragging across wood.
 
-## The Twisted Grove (First Encounter Area)  
+## The Path (First Encounter Area)  
+### Atmosphere  
+- Path through a 
+## The Twisted Grove (Second Encounter Area)  
 
 ### Atmosphere  
 - Trunks veined with throbbing crimson light.  
