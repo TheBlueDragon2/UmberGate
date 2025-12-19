@@ -70,8 +70,9 @@ Use Needle Blight (MM p.32) or Tree Blight if you want bigger threat. Reskin:
 
 ### Key Clues (found during/after combat or by careful search)  
 1. **Cocooned Scout** – One warden still breathing, pinned high in living vines. Early Glass Plague crystals glitter on arms and neck. Delirious mutters: “The Maker… promised perfection… metal that never breaks… no more pain…”  
-2. Logbook -  log is in common and shows that the wardens have been tracked and monitored for the last two weeks.  Journal page (Nyx hook: "He replaces the weak parts.").  
-3. Humanoid tracks are also around
+2. Logbook -  log is in common and shows that the wardens have been tracked and monitored for the last two weeks.  
+3. On body of Warden - Journal page (Nyx hook: "He replaces the weak parts?").  
+4. Humanoid tracks are also around
 
 ### Player Choices & Contingencies  
 - **Fight** – Straightforward but messy; blights try to grapple and drag PCs into trees (Strength save DC 13 or restrained).  
@@ -81,11 +82,46 @@ Use Needle Blight (MM p.32) or Tree Blight if you want bigger threat. Reskin:
 
 ### Pacing Notes  
 - Whole scene should take 45–75 minutes.  
-
-
 ### Rewards  
 - 300 gp from Thorne for answers (plus 200 gp if they identify Nyx as cause).  
 
+# Umberwilds Night Camp – Atmospheric Guide & d6 Encounters  
+**Tags:** #session-prep #umberwilds #night-camp #thornes-quest  
+
+## Setup Notes  
+Party encumbered (cocooned scout: 150 lbs, exhaustion risk if rushed). Camp in a "safer" hollow (e.g., post-path). Watches: 3-4 rotations. Scout stable but moans faintly—Nyx whispers leak ("metal... perfect..."). Roll d6 once per watch or at midnight. Choices matter: noise attracts, fire/light draws predators, silence invites paranoia.
+
+## Atmospheric Descriptions (Layer as Needed)  
+
+### Dusk Transition (Read-Aloud)  
+The sun bleeds crimson into the Fracture's depths, neon canopy igniting like fractured jewels—violets pulsing, crimsons throbbing. Auroral veils dance overhead, lime and cobalt weaving impossible patterns. Air thickens: humid ozone clings to skin, tingling like static before a storm. Phantom jasmine fades to coppery tang; every breath hums with unseen electricity.
+
+### Full Night (Sensory Palette – Improv)  
+- **See**: Trees glow inward, veins flickering like heartbeats. Floating motes wink in/out, casting long shadows that twist unnaturally. Distant silhouettes: too-many-limbed beasts silhouetted against horizon glow.  
+- **Hear**: Wind giggles—childlike, mocking. Leaves rustle whispers ("join us... perfect..."). Far roars echo, cut short by wet snaps. Cocoon pulses with muffled groans.  
+- **Smell**: Sweet rot (overripe fruit + decay), laced with storm-petals and blood-iron. Spores drift, leaving metallic aftertaste.  
+- **Feel**: Gravity hiccups—steps lighten/heavy randomly. Skin prickles from wild magic static; hair rises. Ground warm, pulsing faintly like flesh. Humid air beads sweat that glows blue.  
+- **Taste**: Air coats tongue coppery-sweet; water tastes of lightning.
+
+### Dawn Tease (Read-Aloud End)  
+Eastern grays creep in, Wilds dimming to bruised hues. Cocoon's glow fades; scout stirs weakly. Path home visible—exhaustion lingers, but survival earned.
+
+## d6 Night Encounters (Roll Once/Watch or Midnight)  
+| d6 | Encounter | Details & Choices |  
+|----|-----------|-------------------|  
+| **1** | **Stirge Swarm (Combat)** | 8-10 Wilds Stirges (MM p.284, +wild surge: drain leaves crystal flecks). Dive from canopy on firelight/noise. Winnable; loot: 2d4 crystal blood-vials (healing potion equiv.). |  
+| **2** | **Vine Blight Ambush (Combat)** | 2 Vine Blights (MM p.32) + 4 Twig Blights. Entangle sleepers (Str DC 12). Escape: cut cocoon free (risk scout). Reward: aethersteel thorn (dagger +1 poison). |  
+| **3** | **Neon Ape Pack (Combat)** | 3-4 Wilds Apes (reskin Dire Wolf, MM p.321; neon fur, magic claws). Curious → aggressive if food stolen. Flee viable (Athletics DC 14); parlay? (Animal Handling DC 15, offers fruit). |  
+| **4** | **Whispering Fey (Non-Combat)** | Glowing sprite circle (reskin Pixie, no polymorph). Offers "dreams of metal perfection" (Insight DC 15: Nyx lure). Accept: temp HP + vision clue. Refuse: harmless giggles fade. |  
+| **5** | **Surge Spring (Non-Combat)** | Glowing pool bubbles (Arcana/Nature DC 13: wild magic font). Bath: roll Wild Surge (PHB)—boon (invis 1hr) or bane (random polymorph). Scout improves slightly if dipped. |  
+| **6** | **Nothing** | Uneventful. Paranoia builds (roleplay: eerie calm, scout mutters warnings). Gain short rest + inspiration for tension roleplay. |
+
+## Contingencies  
+- **Encumbered**: Disadv on Stealth/Init; drop cocoon = scout death (guilt hook).  
+- **Agency Beats**: Fire? Draws 1-3. Silence? +2 to avoid. Magic? Surge risk.  
+- **Pacing**: 20-40 min/encounter. End: Umbergate dawn arrival, Thorne payout + Amara heals scout (Nyx intel spills).  
+
+Vivid, tense, player-shaped. They'll feel watched—Wilds alive. Run it! You've got this.
 ### Alive World Tick  
 While they’re out, note:  
 - Reborn Path sermon scheduled tonight in town.  
