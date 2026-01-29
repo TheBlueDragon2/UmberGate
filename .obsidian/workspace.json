@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Town/Exile's Pit.md",
+                "file": "Locations/Town/The Gilded Anvil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exile's Pit"
+              "title": "The Gilded Anvil"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "52aae3820865e8f8",
   "lastOpenFiles": [
+    "Locations/Town/Exile's Pit.md",
     "Locations/Town/Hargrove's General Store.md",
     "Sessions/Session 3 - Maw Delve 01 – The Carnival of Trials.md",
     "Sessions/Session 02 Prep – First Steps into the Umberwilds.md",
@@ -195,7 +196,6 @@
     "NPCs/Town/The Hargrove Brothers.md",
     "Pasted image 20251217155046.png",
     "Umbergate Town Rumors.md",
-    "Locations/Town/Exile's Pit.md",
     "Locations/Town/Iron Tithe Warehouse.md",
     "NPCs/Town/Ma Jessa Carver.md",
     "Creatures/Wildling Alpha.md",
