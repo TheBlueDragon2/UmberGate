@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 3 - Maw Delve 01 – The Carnival of Trials.md",
+                "file": "Locations/Town/Hargrove's General Store.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3 - Maw Delve 01 – The Carnival of Trials"
+              "title": "Hargrove's General Store"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "52aae3820865e8f8",
   "lastOpenFiles": [
-    "Sessions/Session 02 Prep – First Steps into the Umberwilds.md",
     "Sessions/Session 3 - Maw Delve 01 – The Carnival of Trials.md",
+    "Sessions/Session 02 Prep – First Steps into the Umberwilds.md",
     "desktop.ini",
     "NPCs/Wilds/Prime Alrec Vane.md",
     "prime vane 2.jpg",
