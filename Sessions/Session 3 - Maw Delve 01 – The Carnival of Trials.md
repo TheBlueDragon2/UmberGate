@@ -10,6 +10,74 @@
 
 ---
 
+## Scene 0: Thorne and the Map (10-15 min – RP/Tension)
+
+**Context:** Session 2 ended with Galaric pulling out the self-drawing map in front of Captain Thorne without thinking. She stopped everything. We pick up right there.
+
+> [!read]  
+> Captain Thorne's words die mid-sentence. Her good eye locks onto the parchment in Galaric's hands — the one that's drawing itself, ink blooming across the surface like living mist, lines etching roads and buildings that shift as you breathe.
+> 
+> The Keep's audience chamber goes very still. Two wardens by the door are craning their necks. Lieutenant Holt takes a half-step forward, mouth slightly open.
+> 
+> Thorne's voice drops to a blade's edge. Quiet. Controlled. Dangerous.
+> 
+> "Everyone out. Now."
+> 
+> Holt hesitates. "Captain—"
+> 
+> "*Now*, Lieutenant."
+> 
+> The room empties. Boots scuff stone. The heavy door groans shut. But you saw the wardens' faces. They saw it. They'll remember.
+> 
+> Thorne doesn't move until the latch clicks. Then she crosses to the table in three long strides, leans both fists on the wood, and stares at the map like it just declared war.
+> 
+> "Where. Did you get this."
+
+**Tone:** Thorne is not angry — she's *calculating*. This is a military commander who just saw a strategic asset of incalculable value in the hands of three adventurers who've been in town less than a week. She needs to know: is this a threat, an opportunity, or both?
+
+**What Thorne Wants to Know:**
+- Where did the map come from? (The box → Omar → a smuggler who never came back)
+- What does it do exactly? (Real-time self-drawing — how far does it reach? Does it work in the Wilds? In the Maw?)
+- Has anyone else seen it? (Omar saw the box contents but didn't seem to understand its value)
+- Do they know what they're holding? (Probably not — they haven't tested it properly)
+
+**What Thorne Reveals (depending on how forthcoming the party is):**
+- "A map that draws itself. That updates in real time. Do you have any idea what that would mean for my patrols? For the war?"
+- She's seen Maw artifacts before — Torvek's arm, the Marked's sigils — but never anything like this
+- If pressed: "The Iron Dominion is one season from the Fracture. I have 200 wardens, half of them green, and a bridge I can't afford to lose. A map like that could save lives — or paint a target on every one of them."
+- She will NOT try to confiscate it — she's smart enough to know that would make enemies of the only people she's starting to trust
+
+**Thorne's Ask:**
+> [!read]  
+> She straightens. The calculation settles behind her good eye like tumblers falling into place.
+> 
+> "I'm not going to take it from you. I'm not stupid, and you're not prisoners."
+> 
+> A pause. She folds her arms.
+> 
+> "But I need you to understand something. Two of my wardens just saw a piece of parchment draw itself in real time. By sundown, the market will know. By tomorrow, Omar will know — and if Omar knows, everyone knows."
+> 
+> She leans in.
+> 
+> "You just became the most interesting people in Umbergate. That is *not* a compliment. Keep it hidden. Keep it close. And if anyone asks — it's a souvenir. A trinket. Nothing more."
+> 
+> A beat.
+> 
+> "Now. You said you wanted to see the Maw."
+
+**Player Agency Beats:**
+- If they offer to let her use it / copy it: She's grateful but cautious — "Let's see what it does in the Wilds first. If it works past the Span, we'll talk."
+- If they ask for something in return: She respects that. "Name it when you've earned it. You're close."
+- If they're defensive / refuse to explain: She backs off but trust drops. "Fine. But you'll wish you had allies when the wrong people come asking."
+- If they mention Omar / the box: She makes a mental note. "Omar. Of course. That man's fingers are in everything."
+
+**DM Note — The Leak is Already Happening:**
+Lt. Holt and the two wardens saw the map. Holt is loyal to Thorne but the wardens are rank-and-file — one has Iron Tithe connections, one drinks at the Broken Span and talks too much. The rumor spiral begins regardless of what the party does here. See [[Brainstorms/Session 04 – The Map Fallout]] for escalation.
+
+**Transition:** Thorne dismisses them with a nod. The party heads for the Span and the Maw. Scene 1 begins.
+
+---
+
 ## Scene 1: Approach to the Maw (10 min – Immersion Hook)
 **Trigger:** PCs trek 1k yards past Span (Survival DC 12 or get lost in surges: random [[Wilds Encounters]]).  
 
