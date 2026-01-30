@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Town/The Gilded Anvil.md",
+                "file": "Locations/Town/The Broken Span Inn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Gilded Anvil"
+              "title": "The Broken Span Inn"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "52aae3820865e8f8",
   "lastOpenFiles": [
+    "Locations/Town/The Gilded Anvil.md",
     "Locations/Town/Exile's Pit.md",
     "Locations/Town/Hargrove's General Store.md",
     "Sessions/Session 3 - Maw Delve 01 – The Carnival of Trials.md",
