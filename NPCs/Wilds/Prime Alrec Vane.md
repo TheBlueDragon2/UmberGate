@@ -21,6 +21,15 @@ The enigmatic ruler of the Umberwilds, centuries old and utterly mad. Controls a
 - Entry: Raise right hand; Vane decides. Approved get faint glowing sigil on palm (the Marked).
 - Survivors: Emerge with aethersteel, changed forever.
 
+## Session 3 Encounter (Carnival of Trials)
+- **Audience Chamber:** Cold white void, mismatched chairs, wooden table with shifting grain. Vane sits cross-legged, fingers steepled, terrifyingly calm.
+- **Appearance in person:** Elven, ageless (30 or 3,000). Hair: violet-gold, shifts tone. Eyes: one deep violet (matching Maw entrance), one liquid gold. Robes with unrecognizable constellations. Voice arrives "behind your eyes."
+- **Evaluated the party:** Asked "Why are you here?" — accepted curiosity, need, and honest answers.
+- **True Form Glimpse:** For one blink during the Marking, his illusion flickered — too many angles, eyes darting like stars. Instantly reverted.
+- **The Spoiler Curse:** After Marking, words about the Maw turn to glass in the throat if spoken to the unmarked. Among fellow Marked: speak freely, "palm to palm, the old way."
+- **Parting words:** *"The world beyond my gate grows restless. I require steady hands. Do not disappoint me."*
+- **Key Quote:** *"Spoilers ruin everything, don't you think?"*
+
 ## Rumors (d6, town hearsay)
 1. "Vane's not human anymore— he's the Wilds incarnate."
 2. "He picks delvers based on their secrets; the Maw reveals all."
