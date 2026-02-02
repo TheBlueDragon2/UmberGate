@@ -160,18 +160,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "52aae3820865e8f8",
+  "active": "6c213b9d9f7121e8",
   "lastOpenFiles": [
+    "Sessions/Session 3 - Summary.md",
     "Quests & Hooks/Hunt the Leavings – Captain Thorne’s Contract.md",
     "Sessions/Session 01 - The Reborn Stumbles In + Wildlings + Whispering Ingot.md",
     "Sessions/Session 02 – Transcript Notes.md",
@@ -204,7 +205,6 @@
     "Creatures/Wildling.md",
     "Players & Backstories/Galaric Morvson.md",
     "NPCs/Background/Lord Morv.md",
-    "Players & Backstories/Harey Quickstep.md",
     "Untitled.canvas",
     "PCs",
     "NPCs/Background",
